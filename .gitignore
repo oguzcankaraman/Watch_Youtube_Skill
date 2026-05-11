@@ -2,3 +2,4 @@ output/
 .venv/
 venv/
 __pycache__/
+docs/wiki/
