@@ -1,0 +1,498 @@
+{
+  "version": 1,
+  "keywords": [
+    {
+      "phrase": "look at",
+      "weight": 1.0,
+      "source": "builtin",
+      "occurrences": 1
+    },
+    {
+      "phrase": "here we see",
+      "weight": 1.0,
+      "source": "builtin",
+      "occurrences": 1
+    },
+    {
+      "phrase": "here we have",
+      "weight": 1.0,
+      "source": "builtin",
+      "occurrences": 1
+    },
+    {
+      "phrase": "here we go",
+      "weight": 0.9,
+      "source": "builtin",
+      "occurrences": 1
+    },
+    {
+      "phrase": "as shown",
+      "weight": 1.0,
+      "source": "builtin",
+      "occurrences": 1
+    },
+    {
+      "phrase": "as you can see",
+      "weight": 1.0,
+      "source": "builtin",
+      "occurrences": 1
+    },
+    {
+      "phrase": "let me show",
+      "weight": 1.0,
+      "source": "builtin",
+      "occurrences": 1
+    },
+    {
+      "phrase": "i'll show you",
+      "weight": 0.9,
+      "source": "builtin",
+      "occurrences": 1
+    },
+    {
+      "phrase": "notice",
+      "weight": 0.9,
+      "source": "builtin",
+      "occurrences": 1
+    },
+    {
+      "phrase": "zoom in",
+      "weight": 1.0,
+      "source": "builtin",
+      "occurrences": 1
+    },
+    {
+      "phrase": "zoom out",
+      "weight": 0.9,
+      "source": "builtin",
+      "occurrences": 1
+    },
+    {
+      "phrase": "diagram",
+      "weight": 1.0,
+      "source": "builtin",
+      "occurrences": 1
+    },
+    {
+      "phrase": "graph",
+      "weight": 1.0,
+      "source": "builtin",
+      "occurrences": 1
+    },
+    {
+      "phrase": "chart",
+      "weight": 1.0,
+      "source": "builtin",
+      "occurrences": 1
+    },
+    {
+      "phrase": "code",
+      "weight": 0.9,
+      "source": "builtin",
+      "occurrences": 1
+    },
+    {
+      "phrase": "screen",
+      "weight": 0.9,
+      "source": "builtin",
+      "occurrences": 1
+    },
+    {
+      "phrase": "table",
+      "weight": 0.9,
+      "source": "builtin",
+      "occurrences": 1
+    },
+    {
+      "phrase": "slide",
+      "weight": 0.9,
+      "source": "builtin",
+      "occurrences": 1
+    },
+    {
+      "phrase": "formula",
+      "weight": 1.0,
+      "source": "builtin",
+      "occurrences": 1
+    },
+    {
+      "phrase": "equation",
+      "weight": 1.0,
+      "source": "builtin",
+      "occurrences": 1
+    },
+    {
+      "phrase": "this is",
+      "weight": 0.7,
+      "source": "builtin",
+      "occurrences": 1
+    },
+    {
+      "phrase": "this shows",
+      "weight": 1.0,
+      "source": "builtin",
+      "occurrences": 1
+    },
+    {
+      "phrase": "this represents",
+      "weight": 1.0,
+      "source": "builtin",
+      "occurrences": 1
+    },
+    {
+      "phrase": "right here",
+      "weight": 1.0,
+      "source": "builtin",
+      "occurrences": 1
+    },
+    {
+      "phrase": "over here",
+      "weight": 1.0,
+      "source": "builtin",
+      "occurrences": 1
+    },
+    {
+      "phrase": "highlight",
+      "weight": 0.9,
+      "source": "builtin",
+      "occurrences": 1
+    },
+    {
+      "phrase": "point to",
+      "weight": 1.0,
+      "source": "builtin",
+      "occurrences": 1
+    },
+    {
+      "phrase": "click on",
+      "weight": 0.9,
+      "source": "builtin",
+      "occurrences": 1
+    },
+    {
+      "phrase": "terminal",
+      "weight": 1.0,
+      "source": "builtin",
+      "occurrences": 1
+    },
+    {
+      "phrase": "output",
+      "weight": 0.8,
+      "source": "builtin",
+      "occurrences": 1
+    },
+    {
+      "phrase": "result",
+      "weight": 0.7,
+      "source": "builtin",
+      "occurrences": 1
+    },
+    {
+      "phrase": "example",
+      "weight": 0.7,
+      "source": "builtin",
+      "occurrences": 1
+    },
+    {
+      "phrase": "demo",
+      "weight": 0.9,
+      "source": "builtin",
+      "occurrences": 1
+    },
+    {
+      "phrase": "visualization",
+      "weight": 1.0,
+      "source": "builtin",
+      "occurrences": 1
+    },
+    {
+      "phrase": "plot",
+      "weight": 0.9,
+      "source": "builtin",
+      "occurrences": 1
+    },
+    {
+      "phrase": "architecture",
+      "weight": 0.9,
+      "source": "builtin",
+      "occurrences": 1
+    },
+    {
+      "phrase": "pipeline",
+      "weight": 0.9,
+      "source": "builtin",
+      "occurrences": 1
+    },
+    {
+      "phrase": "screenshot",
+      "weight": 1.0,
+      "source": "builtin",
+      "occurrences": 1
+    },
+    {
+      "phrase": "kernel",
+      "weight": 0.5,
+      "source": "learned",
+      "occurrences": 1
+    },
+    {
+      "phrase": "file file",
+      "weight": 0.5,
+      "source": "learned",
+      "occurrences": 1
+    },
+    {
+      "phrase": "memory management",
+      "weight": 0.5,
+      "source": "learned",
+      "occurrences": 1
+    },
+    {
+      "phrase": "cpu running",
+      "weight": 0.5,
+      "source": "learned",
+      "occurrences": 1
+    },
+    {
+      "phrase": "file names",
+      "weight": 0.5,
+      "source": "learned",
+      "occurrences": 1
+    },
+    {
+      "phrase": "point memory",
+      "weight": 0.5,
+      "source": "learned",
+      "occurrences": 1
+    },
+    {
+      "phrase": "page table",
+      "weight": 0.5,
+      "source": "learned",
+      "occurrences": 1
+    },
+    {
+      "phrase": "index node",
+      "weight": 0.5,
+      "source": "learned",
+      "occurrences": 1
+    },
+    {
+      "phrase": "claude",
+      "weight": 0.5,
+      "source": "learned",
+      "occurrences": 1
+    },
+    {
+      "phrase": "actually",
+      "weight": 0.5,
+      "source": "learned",
+      "occurrences": 1
+    },
+    {
+      "phrase": "transcript",
+      "weight": 0.5,
+      "source": "learned",
+      "occurrences": 1
+    },
+    {
+      "phrase": "transcript claude",
+      "weight": 0.5,
+      "source": "learned",
+      "occurrences": 1
+    },
+    {
+      "phrase": "claude actually",
+      "weight": 0.5,
+      "source": "learned",
+      "occurrences": 1
+    },
+    {
+      "phrase": "dl ffmpeg",
+      "weight": 0.5,
+      "source": "learned",
+      "occurrences": 1
+    },
+    {
+      "phrase": "youtube dl",
+      "weight": 0.5,
+      "source": "learned",
+      "occurrences": 1
+    },
+    {
+      "phrase": "pretty free",
+      "weight": 0.5,
+      "source": "learned",
+      "occurrences": 1
+    },
+    {
+      "phrase": "45 minute",
+      "weight": 0.5,
+      "source": "learned",
+      "occurrences": 1
+    },
+    {
+      "phrase": "claude code",
+      "weight": 0.5,
+      "source": "learned",
+      "occurrences": 1
+    },
+    {
+      "phrase": "look",
+      "weight": 0.5,
+      "source": "learned",
+      "occurrences": 1
+    },
+    {
+      "phrase": "generate",
+      "weight": 0.5,
+      "source": "learned",
+      "occurrences": 1
+    },
+    {
+      "phrase": "teal",
+      "weight": 0.5,
+      "source": "learned",
+      "occurrences": 1
+    },
+    {
+      "phrase": "shadows",
+      "weight": 0.5,
+      "source": "learned",
+      "occurrences": 1
+    },
+    {
+      "phrase": "clean",
+      "weight": 0.5,
+      "source": "learned",
+      "occurrences": 1
+    },
+    {
+      "phrase": "created",
+      "weight": 0.5,
+      "source": "learned",
+      "occurrences": 1
+    },
+    {
+      "phrase": "download",
+      "weight": 0.5,
+      "source": "learned",
+      "occurrences": 1
+    },
+    {
+      "phrase": "numbers counting",
+      "weight": 0.5,
+      "source": "learned",
+      "occurrences": 1
+    },
+    {
+      "phrase": "premium looking",
+      "weight": 0.5,
+      "source": "learned",
+      "occurrences": 1
+    },
+    {
+      "phrase": "looking motion",
+      "weight": 0.5,
+      "source": "learned",
+      "occurrences": 1
+    },
+    {
+      "phrase": "file access",
+      "weight": 0.5,
+      "source": "learned",
+      "occurrences": 1
+    },
+    {
+      "phrase": "command prompt",
+      "weight": 0.5,
+      "source": "learned",
+      "occurrences": 1
+    },
+    {
+      "phrase": "agent design",
+      "weight": 0.5,
+      "source": "learned",
+      "occurrences": 1
+    },
+    {
+      "phrase": "cloud code",
+      "weight": 0.5,
+      "source": "learned",
+      "occurrences": 1
+    },
+    {
+      "phrase": "pdfs powerpoints",
+      "weight": 0.5,
+      "source": "learned",
+      "occurrences": 1
+    },
+    {
+      "phrase": "need make",
+      "weight": 0.5,
+      "source": "learned",
+      "occurrences": 1
+    },
+    {
+      "phrase": "pages slide",
+      "weight": 0.5,
+      "source": "learned",
+      "occurrences": 1
+    },
+    {
+      "phrase": "output quality",
+      "weight": 0.5,
+      "source": "learned",
+      "occurrences": 1
+    },
+    {
+      "phrase": "nodejs version",
+      "weight": 0.5,
+      "source": "learned",
+      "occurrences": 1
+    },
+    {
+      "phrase": "multi model",
+      "weight": 0.5,
+      "source": "learned",
+      "occurrences": 1
+    },
+    {
+      "phrase": "memory",
+      "weight": 0.5,
+      "source": "learned",
+      "occurrences": 1
+    },
+    {
+      "phrase": "unified",
+      "weight": 0.5,
+      "source": "learned",
+      "occurrences": 1
+    },
+    {
+      "phrase": "unified architecture",
+      "weight": 0.5,
+      "source": "learned",
+      "occurrences": 1
+    },
+    {
+      "phrase": "unified memory",
+      "weight": 0.5,
+      "source": "learned",
+      "occurrences": 1
+    },
+    {
+      "phrase": "gb memory",
+      "weight": 0.5,
+      "source": "learned",
+      "occurrences": 1
+    },
+    {
+      "phrase": "dgx spark",
+      "weight": 0.5,
+      "source": "learned",
+      "occurrences": 1
+    }
+  ],
+  "domain_clusters": {}
+}

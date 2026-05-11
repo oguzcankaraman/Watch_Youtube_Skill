@@ -1,0 +1,15 @@
+Metadata-Version: 2.4
+Name: watch-youtube
+Version: 0.1.0
+Summary: YouTube video storyboard generator for Vision LLMs
+Requires-Python: >=3.11
+Requires-Dist: yt-dlp>=2024.3.10
+Requires-Dist: Pillow>=10.3.0
+Requires-Dist: groq>=0.5.0
+Requires-Dist: click>=8.1.7
+Requires-Dist: webvtt-py>=0.4.6
+Requires-Dist: spacy>=3.7.0
+Requires-Dist: scikit-learn>=1.4.0
+Dynamic: requires-dist
+Dynamic: requires-python
+Dynamic: summary

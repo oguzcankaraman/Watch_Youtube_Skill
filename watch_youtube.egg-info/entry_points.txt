@@ -1,0 +1,2 @@
+[console_scripts]
+watch-youtube = watch_youtube.main:cli
